@@ -1,0 +1,22 @@
+{
+  "name": "expaper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simetri8/expaper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simetri8/expaper/issues"
+  },
+  "homepage": "https://github.com/Simetri8/expaper#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
